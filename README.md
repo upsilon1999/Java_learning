@@ -1,0 +1,2 @@
+# Java_learning
+本人不是一个Java开发者，苦于能找到的中文资源多为Java书写，故学习Java相关知识
